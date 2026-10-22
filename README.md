@@ -65,7 +65,7 @@
 ## 目录结构
 
 ```
-dream-echo/
+2026-xiaoxueqiWork/
 ├─ project.godot            # Godot 工程配置
 ├─ export_presets.cfg       # 导出预设
 ├─ scenes/                  # 13 个场景（main / map / battle / select / codex…）
@@ -89,7 +89,7 @@ dream-echo/
 
 视频体积 65 MB，未直接放入仓库，请在 **Releases** 页或网盘查看：
 
-> 🎬 演示视频：https://github.com/你的用户名/dream-echo/releases （待补充实际链接）
+> 🎬 演示视频：https://github.com/xiaomu0714/2026-xiaoxueqiWork/releases （发布 Release 后在此查看）
 
 ## 声明
 
