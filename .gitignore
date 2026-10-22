@@ -1,0 +1,17 @@
+# Godot 4 工程忽略项
+.godot/
+/android/
+export.cfg
+*.translation
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.tmp
+
+# 大体积原始素材（AI 生图源表，未参与运行时）
+art/source_sheets/
+*.zip
